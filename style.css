@@ -19,14 +19,14 @@ color:#ffffff;
 height: 13%;
 width: 100%;
 position: fixed;
-top: 0
+top: 0px;
 
 }
 
 .section {
 background-color: #1abc9c;
 color: #ffffff;
-padding-top: 100px;
+padding-top: 200px;
 padding-bottom: 50px;
 }
 
